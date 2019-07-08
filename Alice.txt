@@ -1,1 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Learning about git remote fetch and pull command.
